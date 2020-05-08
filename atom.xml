@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-06T08:41:41.821Z</updated>
+  <updated>2020-05-08T03:24:00.322Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo博客搭建</title>
+    <link href="http://yoursite.com/2020/05/08/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA(%E4%B8%80)/"/>
+    <id>http://yoursite.com/2020/05/08/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA(%E4%B8%80)/</id>
+    <published>2020-05-08T03:02:03.000Z</published>
+    <updated>2020-05-08T03:24:00.322Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><a id="more"></a><p>首先，去<a href="https://git-scm.com/" target="_blank" rel="noopener">Git官网</a>下载Git(已下载可以略过此步骤),安装时直接下一步就OK了。</p><p>接着，打开Git bash(如图)</p><p><img src="https://s1.ax1x.com/2020/05/08/YnhIl4.jpg" alt=""></p><p>放着不动。</p><h2 id="安装node-js和cnpm"><a href="#安装node-js和cnpm" class="headerlink" title="安装node.js和cnpm"></a>安装node.js和cnpm</h2><p>让后去node.js官网下载node.js，下载安装好后打开Git，然后输入命令</p><p><code>npm install -g cnpm --registry=https://registry.npm.taobao.org</code></p><p>等待安装</p><h2 id="安装Hexo框架"><a href="#安装Hexo框架" class="headerlink" title="安装Hexo框架"></a>安装Hexo框架</h2><p>输入</p><p><code>cnpm install -g hexo-cli</code></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;安装Git&quot;&gt;&lt;a href=&quot;#安装Git&quot; class=&quot;headerlink&quot; title=&quot;安装Git&quot;&gt;&lt;/a&gt;安装Git&lt;/h2&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>关于我的</title>
