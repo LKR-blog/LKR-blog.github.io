@@ -6,11 +6,11 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-08T03:27:01.421Z</updated>
+  <updated>2020-06-08T07:28:49.815Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Unremittingly</name>
+    <name>丶天才恺</name>
     
   </author>
   
@@ -21,43 +21,19 @@
     <link href="http://yoursite.com/2020/05/08/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA(%E4%B8%80)/"/>
     <id>http://yoursite.com/2020/05/08/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA(%E4%B8%80)/</id>
     <published>2020-05-08T03:02:03.000Z</published>
-    <updated>2020-05-08T03:27:01.421Z</updated>
+    <updated>2020-06-08T07:28:49.815Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><a id="more"></a><p>首先，去<a href="https://git-scm.com/" target="_blank" rel="noopener">Git官网</a>下载Git(已下载可以略过此步骤),安装时直接下一步就OK了。</p><p>接着，打开Git bash(如图)</p><p><img src="https://s1.ax1x.com/2020/05/08/YnhIl4.jpg" alt=""></p><p>放着不动。</p><h2 id="安装node-js和cnpm"><a href="#安装node-js和cnpm" class="headerlink" title="安装node.js和cnpm"></a>安装node.js和cnpm</h2><p>让后去node.js官网下载node.js，下载安装好后打开Git，然后输入命令</p><p><code>npm install -g cnpm --registry=https://registry.npm.taobao.org</code></p><p>等待安装</p><h2 id="安装Hexo框架"><a href="#安装Hexo框架" class="headerlink" title="安装Hexo框架"></a>安装Hexo框架</h2><p>输入</p><p><code>cnpm install -g hexo-cli</code></p>]]></content>
+    <content type="html"><![CDATA[<p>大家好!我是天才恺，今天教大家怎么搭建hexo博客。</p><a id="more"></a><h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><p>首先，去<a href="https://git-scm.com/" target="_blank" rel="noopener">Git官网</a>下载Git(已下载可以略过此步骤),安装时直接下一步就OK了。</p><p>接着，打开Git bash(如图)</p><p><img src="https://s1.ax1x.com/2020/05/08/YnhIl4.jpg" alt=""></p><p>放着不动。</p><h2 id="安装node-js和cnpm"><a href="#安装node-js和cnpm" class="headerlink" title="安装node.js和cnpm"></a>安装node.js和cnpm</h2><p>让后去node.js官网下载node.js，下载安装好后打开Git，然后输入命令</p><p><code>npm install -g cnpm --registry=https://registry.npm.taobao.org</code></p><p>等待安装</p><h2 id="安装Hexo框架"><a href="#安装Hexo框架" class="headerlink" title="安装Hexo框架"></a>安装Hexo框架</h2><p>输入</p><p><code>cnpm install -g hexo-cli</code></p>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;安装Git&quot;&gt;&lt;a href=&quot;#安装Git&quot; class=&quot;headerlink&quot; title=&quot;安装Git&quot;&gt;&lt;/a&gt;安装Git&lt;/h2&gt;
+      &lt;p&gt;大家好!我是天才恺，今天教大家怎么搭建hexo博客。&lt;/p&gt;
     
     </summary>
     
     
     
       <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于我的</title>
-    <link href="http://yoursite.com/2020/05/06/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84/"/>
-    <id>http://yoursite.com/2020/05/06/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84/</id>
-    <published>2020-05-06T08:21:34.000Z</published>
-    <updated>2020-05-06T08:41:41.821Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="我的个人主页"><a href="#我的个人主页" class="headerlink" title="我的个人主页"></a>我的个人主页</h2><p>如果你想要知道我是谁！年龄！以及联系方式的话 </p><p>请访问我的主页</p><p>我的个人主页：<a href="https://LKR2008.github.io/" target="_blank" rel="noopener">LKR2008</a></p><hr><a id="more"></a><h2 id="我的登录界面（并没有实际作用）"><a href="#我的登录界面（并没有实际作用）" class="headerlink" title="我的登录界面（并没有实际作用）"></a>我的登录界面（并没有实际作用）</h2><p>这是我做的登录界面</p><p>然而它并没有实际的作用</p><p>它的地址：<a href="https://LKR2008.giyhub.io/login/" target="_blank" rel="noopener">登录界面</a></p><hr><h2 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h2><p>额，这以后可能会更新，好好期待吧！</p><hr><h3 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h3><p>在下 LKR</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;我的个人主页&quot;&gt;&lt;a href=&quot;#我的个人主页&quot; class=&quot;headerlink&quot; title=&quot;我的个人主页&quot;&gt;&lt;/a&gt;我的个人主页&lt;/h2&gt;&lt;p&gt;如果你想要知道我是谁！年龄！以及联系方式的话 &lt;/p&gt;
-&lt;p&gt;请访问我的主页&lt;/p&gt;
-&lt;p&gt;我的个人主页：&lt;a href=&quot;https://LKR2008.github.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;LKR2008&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
